@@ -1,8 +1,8 @@
 # Ontario-Lake-Fish-Classification
 
-Binary classification for Lake Trout and Lake White Fish from hydroacoustic data.
+Please see the branch - Deliverables for our final submission
 
-From sonar to species: using wideband acoustics and machine learning to classify fish species
+From sonar to species: Binary classification for Lake Trout and Lake White Fish from wide-band hydroacoustic data.
 
 ## Abstract
 
